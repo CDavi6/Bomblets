@@ -1,4 +1,5 @@
 <h1>Bomblets</h1>
+My first ever unity game. Total time of creation probably less than a day.
 
 <h2>Description</h2>
 An endless round base tank shooter with upgrades. My first complete unity project.
